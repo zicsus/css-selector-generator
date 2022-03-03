@@ -7,7 +7,7 @@
     "module": "es6",
     "target": "es6",
     "allowJs": true,
-    "sourceMap": true,
+    "sourceMap": false,
     "moduleResolution": "node",
     "lib": [
       "ES6",
